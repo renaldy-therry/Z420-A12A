@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Z420-A12A
+- 👋 Hi, I’m Renaldy William Lijaya Terry
 - 👀 I’m interested in software development, website and other projects
 - 🌱 I’m currently learning C, html
 - 💞️ I’m looking to collaborate on study and make new project
